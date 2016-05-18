@@ -102,13 +102,10 @@ body {
 }
 
 .memo-item.is-color-yellow { background-color: #FEF3A1; }
-/*.memo-item.is-color-blue { background-color: #42afe3; }*/
 .memo-item.is-color-blue { background-color: #AFF4FE; }
-/*.memo-item.is-color-green { background-color: #97cd76; }*/
 .memo-item.is-color-green { background-color: #B4FDA5; }
 .memo-item.is-color-orange { background-color: #f68b39; }
 .memo-item.is-color-red { background-color: #ed8c83; }
-/*.memo-item.is-color-turquoise { background-color: #1fc8db; }*/
 .memo-item.is-color-gray { background-color: #aeb1b5; }
 .memo-item.is-color-pink { background-color: #FEC7C8; }
 .memo-item.is-color-white { background-color: #FEFEFE; }
